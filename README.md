@@ -54,13 +54,13 @@ Artificial Intelligence • Machine Learning • SDLC
 
 ## 🧪 Projects  
 
-### 🌐 Interior Design Business Website  
+### 🌐 [Interior Design Business Website](https://agapeinteriors.in/)  
 **Tech Stack:** HTML, CSS, JavaScript  
 - Built a responsive website for a real interior design business  
 - Developed an interactive gallery and contact system  
 - Optimized for mobile-first user experience  
 
-### 🎬 Movie Recommendation System
+### 🎬 [Movie Recommendation System](https://movierecommendationsystempramith.streamlit.app/)
 
 **Tech Stack:** Python, Scikit-learn, Pandas
 
@@ -68,7 +68,7 @@ Artificial Intelligence • Machine Learning • SDLC
 * Processed and analyzed movie metadata for accurate recommendations
 * Developed an interactive interface to suggest similar movies in real time
 
-### 🚗 AI Vehicle Detection
+### 🚗 [AI Vehicle Detection](https://github.com/pramithm/AI-Vehicle-Detection-Web-Application)
 
 **Tech Stack:** Python, OpenCV, YOLO, NumPy
 
