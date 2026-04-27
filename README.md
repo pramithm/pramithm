@@ -60,17 +60,21 @@ Artificial Intelligence • Machine Learning • SDLC
 - Developed an interactive gallery and contact system  
 - Optimized for mobile-first user experience  
 
-### 💳 Credit Card Fraud Detection System  
-**Tech Stack:** Python, Scikit-learn, Pandas  
-- Built a machine learning model for fraud detection with 90%+ ROC-AUC  
-- Applied SMOTE and feature engineering for better performance  
-- Developed a Flask API for real-time fraud prediction  
+### 🎬 Movie Recommendation System
 
-### 🏠 House Price Prediction Model  
-**Tech Stack:** Python, Scikit-learn, NumPy  
-- Built a regression model with improved prediction accuracy  
-- Reduced RMSE by 18% through preprocessing and feature scaling  
-- Integrated the model into a simple web-based interface  
+**Tech Stack:** Python, Scikit-learn, Pandas
+
+* Built a content-based movie recommendation system using cosine similarity
+* Processed and analyzed movie metadata for accurate recommendations
+* Developed an interactive interface to suggest similar movies in real time
+
+### 🚗 AI Vehicle Detection
+
+**Tech Stack:** Python, OpenCV, YOLO, NumPy
+
+* Built an AI-based vehicle detection system using computer vision techniques
+* Detected and classified vehicles in real-time from video streams
+* Improved detection accuracy through model optimization and frame processing
 
 ---
 
