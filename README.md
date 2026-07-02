@@ -3,7 +3,7 @@
 🎓 **Computer Science Engineering Student (AI Specialization)**  
 📍 Warangal, India  
 📧 pramith212@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda-346262364)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda)  
 💻 [GitHub](https://github.com/pramithm)  
 
 ---
