@@ -3,10 +3,10 @@
 🎓 **Computer Science Engineering Student (AI Specialization)**  
 📍 Warangal, India  
 
-🌐 [Portfolio](https://pramithm.github.io/)<br>
-🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda)  
-💻 [GitHub](https://github.com/pramithm)  
-📧 pramith212@gmail.com  
+##🌐 [Portfolio](https://pramithm.github.io/)<br>
+##🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda)  
+##💻 [GitHub](https://github.com/pramithm)  
+##📧 pramith212@gmail.com  
 ---
 
 ## 🚀 About Me  
