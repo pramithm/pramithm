@@ -103,7 +103,10 @@ CGPA: **10.0**
 
 ## 📜 Certifications  
 
-🏅 SQL Database Specialist — Oracle  
+🏅 SQL Database Specialist — Oracle
+🤖 AI Engineer - Aimen Electronics India Pvt.Ltd
+📱 App Development - SecureDataware Technologies
+🏅 Hackathon Certificate - Cognizant
 
 ---
 
