@@ -79,7 +79,7 @@ Artificial Intelligence • Machine Learning • SDLC
 * Detected and classified vehicles in real-time from video streams
 * Improved detection accuracy through model optimization and frame processing
 
-#### And For more visit :- (https://pramithm.github.io/#projects)
+#### And For more visit :- https://pramithm.github.io/#projects
 ---
 
 ## 🎓 Education  
