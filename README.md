@@ -4,8 +4,7 @@
 📍 Warangal, India  
 
 🌐 [Portfolio](https://pramithm.github.io/)<br>
-🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda)  
-💻 [GitHub](https://github.com/pramithm)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pramith-maredukonda) <br> 
 📧 pramith212@gmail.com 
 
 ---
