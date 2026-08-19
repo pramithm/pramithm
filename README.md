@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=PRAMITH%20MAREDUKONDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Computer%20Vision%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png"
+    width="180"
+    alt="Pramith Maredukonda"/>
 
 <br/>
 
