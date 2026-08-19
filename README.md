@@ -79,25 +79,25 @@ I aim to design and develop impactful, production-ready solutions that solve mea
 
 <br/>
 
-## 🧪 Featured AI Projects
+## 🧪 Projects
 
-### 🚗 [AI Vehicle & Human Detection Web App](https://github.com/pramithm/AI-Vehicle-Detection-Web-Application)
-**Category:** AI Project &nbsp;·&nbsp; **Tech Stack:** Python · Flask · OpenCV · YOLOv8
-- Real-time object detection web app that classifies live camera/video feed into humans and vehicle types (2-wheeler, 4-wheeler, 6-wheeler)
-- Uses a YOLOv8 deep learning model with bounding-box visualization for accurate, real-time results
-- Built with a clean, modular Flask backend and a browser-based streaming interface
+### 🎬 [Movie Recommendation System](https://movierecommendationsystempramith.streamlit.app/)
+**Tech Stack:** Python · Scikit-learn · Pandas
+- Built a content-based movie recommendation system using cosine similarity
+- Processed and analyzed movie metadata for accurate recommendations
+- Developed an interactive interface to suggest similar movies in real time
 
-### 🔎 [TrackBack – Smart Lost & Found Tracking App](https://github.com/pramithm/TrackBack-Web-PDD)
-**Category:** Full Stack Project &nbsp;·&nbsp; **Tech Stack:** React Native · Firebase · Gemini/OpenAI API
-- Cross-platform (Android & iOS) app for securely recovering lost items, built with React Native + Firebase
-- Integrates AI for image verification, auto-generated ownership questions, smart claimant matching, and chat moderation to prevent fraud
-- Includes real-time chat, push notifications, and a safety layer with reporting/blocking to protect users
+### 🌐 [Interior Design Business Website](https://agapeinteriors.in/)
+**Tech Stack:** HTML · CSS · JavaScript
+- Built a responsive website for a real interior design business
+- Developed an interactive gallery and contact system
+- Optimized for mobile-first user experience
 
-### 🤖 [AI HR Helpdesk Chatbot](https://github.com/pramithm/CodeVedX-Internship/tree/main/Project-4/AI-Helpdesk-Chatbot)
-**Category:** AI/ML Project &nbsp;·&nbsp; **Tech Stack:** Python · Flask · Scikit-learn · NLTK
-- NLP-driven HR chatbot that predicts employee query intent using TF-IDF + Logistic Regression and returns the right FAQ response
-- Automates common HR queries (leave, timings, payroll, resignation) through an interactive Flask web interface
-- Live demo deployed and easily extensible by updating the intents dataset
+### 🚗 [AI Vehicle Detection](https://github.com/pramithm/AI-Vehicle-Detection-Web-Application)
+**Tech Stack:** Python · OpenCV · YOLO · NumPy
+- Built an AI-based vehicle detection system using computer vision techniques
+- Detected and classified vehicles in real time from video streams
+- Improved detection accuracy through model optimization and frame processing
 
 <div align="center">
 
