@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png"
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png"
     width="180"
     height="180"
-    style="border-radius: 50%; object-fit: cover; object-position: center 20%;"
-    alt="Pramith Maredukonda"/>
-
+    style="border-radius:50%; border:4px solid #00c6ff;"
+    alt="Pramith Maredukonda"
+  />
+</p>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Final-Year+CSE+(AI)+Student;Machine+Learning+%7C+Computer+Vision;Building+Real-World+AI+Systems;Open+to+AI%2FML+%26+CV+Roles" alt="Typing SVG" />
