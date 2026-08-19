@@ -2,10 +2,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png"
-    width="180"
-    height="180"
-    style="border-radius:50%; border:4px solid #00c6ff;"
+    src="https://wsrv.nl/?url=https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png&w=220&h=220&fit=cover&a=focal&fpy=0.38&mask=circle&mtrim"
+    width="220"
+    height="220"
     alt="Pramith Maredukonda"
   />
 </p>
