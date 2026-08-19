@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/pramithm/pramithm.github.io/main/assets-portfolio/Pramith_Images/pic3.png"
     width="180"
+    height="180"
+    style="border-radius: 50%; object-fit: cover; object-position: center 25%;"
     alt="Pramith Maredukonda"/>
 
 <br/>
